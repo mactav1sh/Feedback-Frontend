@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Feedback Form made with React and connected to JSON API for fetching Feeback data.
+A [Feedback Form](https://feedbackformfe222.netlify.app/) made with React.
 
 ## Available Scripts
 
